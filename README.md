@@ -1,4 +1,12 @@
-Hi 👋 My name is Nikhil Gautam ==============================  Full Stack Developer --------------------  I am a budding full stack developer and a student at the University of Massachusetts,Amherst.I love learning about new technology and building clones of popular Apps.  * 🌍  I'm based in Massachusetts * ✉️  You can contact me at [ngautam222@gmail.com](mailto:ngautam222@gmail.com) * 🧠  I'm learning Next Js and MongoDb * 🤝  I'm open to collaborating on anything thats interesting * ⚡  I am also decent at Brazilian Jiu-jitsu
+Hi 👋 My name is Nikhil Gautam
+==============================  Full Stack Developer -------------------- 
+I am a budding full stack developer and a student at the University of Massachusetts,Amherst.
+I love learning about new technology and building clones of popular Apps. 
+* 🌍  I'm based in Massachusetts 
+* * ✉️  You can contact me at [ngautam222@gmail.com](mailto:ngautam222@gmail.com) 
+* * 🧠  I'm learning Next Js and MongoDb 
+* * 🤝  I'm open to collaborating on anything thats interesting
+*  * ⚡  I am also decent at Brazilian Jiu-jitsu
 
 <a href="https://www.github.com/ngautam222" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ngautam222?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
